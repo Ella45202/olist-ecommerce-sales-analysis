@@ -1,0 +1,16 @@
+# Raw datasets and CSV exports
+data/
+raw/
+*.csv
+tableau/exports/
+
+# Tableau temporary and backup files
+.~*
+*.twbr
+
+# Mac system files
+.DS_Store
+
+# Temporary and backup files
+*.tmp
+*.save
