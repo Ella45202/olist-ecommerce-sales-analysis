@@ -81,3 +81,7 @@ The Tableau dashboard includes:
 ## Project Status
 
 Initial data analysis and dashboard development completed.
+
+## Dashboard Preview
+
+![Olist E-commerce Dashboard](tableau/dashboard.png)
